@@ -1,8 +1,8 @@
 # Crud-Operation
-create, read, update and delete operation in angular 4
+create, read, update, and delete operations in angular 4
 
 
-Create Angular project by typing these commands in CMD(windows)/Terminal (linux)
+Create an Angular project by typing these commands in CMD(windows)/Terminal (Linux)
 1) npm install -g @angular/cli
 2) ng new my-app
 3) cd my-app
@@ -13,8 +13,8 @@ install Json-server with this command
 npm install -g json-server
 
 
-then Create an empty file in same folder where angular is installed with file.json
-and write a data which you want to show on your json server
+then Create an empty file in the same folder where angular is installed with file.json
+and write the data that you want to show on your json server
 
 for example:
 
